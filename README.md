@@ -1,2 +1,2 @@
-# BT_FTTH
-Test des données BT dans le cadre du projet FTTH
+# Machine Translation
+In this project i will try to use machine translation to translate my internship report from french into english.
